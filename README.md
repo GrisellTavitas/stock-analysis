@@ -1,4 +1,4 @@
-# stock-analysis
+# Stock-Analysis
 ## Analyzing financial data using VBA
 
 ### Overview of Project: Explain the purpose of this analysis.
